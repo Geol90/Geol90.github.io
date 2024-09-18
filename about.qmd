@@ -1,5 +1,5 @@
 ---
-title: "Thomas Rose"
+title: "Geol90"
 about:
   id: template-area
   template: jolla
@@ -30,13 +30,13 @@ Here goes the information about you.
 ## Legal Notice
 
 Provider according to § 5 TMG is:  
-Thomas Rose  
-Fahrenheitstr. 52  
-44879 Bochum  
+Geol90  
+Frankfurter Berg Str.4  
+60433 Frankfurt  
 Germany  
 
-Phone +49 1522 3176524  
-E-Mail: thomas.rose [at] daad-alumni.de
+Phone +49 15 756516464  
+E-Mail: link2atta90 [at] gmail.com
 
 ## Privacy
 
